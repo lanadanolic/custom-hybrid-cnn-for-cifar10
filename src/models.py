@@ -3,8 +3,6 @@
 from tensorflow import keras
 from tensorflow.keras import layers
 
-
-# general model parameters
 SEED = 42
 INPUT_SHAPE = (32, 32, 3)
 NUM_CLASSES = 10
