@@ -559,13 +559,13 @@ Contains the complete experimental workflow:
 Clone the repository:
 
 ```bash
-git clone https://github.com/lanadanolic/custom-hybrid-cnn-for-cifar10.git
+git clone https://github.com/lanadanolic/hybrid-convolutional-feature-fusion-network.git
 ```
 
 Move into the project directory:
 
 ```bash
-cd custom-hybrid-cnn-for-cifar10
+cd hybrid-convolutional-feature-fusion-network
 ```
 
 Install the required dependencies:
