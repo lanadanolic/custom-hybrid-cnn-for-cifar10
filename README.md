@@ -1,4 +1,6 @@
-# Custom Hybrid CNN for CIFAR-10
+# Multi-Branch Hybrid Convolutional Neural Network
+
+A custom multi-branch CNN architecture combining standard, depthwise separable, and dilated convolutions for image classification.
 
 This project presents a custom **Hybrid Convolutional Neural Network (CNN)** for image classification on the **CIFAR-10** dataset.
 
